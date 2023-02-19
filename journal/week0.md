@@ -1,9 +1,16 @@
 # Week 0 - Billing and Architecture
 
-#### Homework assignments
+## Required Homework 
+
+### Install AWS CLI
+
+### Create Logical Diagram
+
+[Conceptual Diagram](https://lucid.app/lucidchart/aaf16c52-b569-423a-a992-c134322dd0c2/edit?viewport_loc=-810%2C-303%2C3621%2C1914%2C0_0&invitationId=inv_eb1e4b86-95b1-4195-9ced-d10bf0df656a)
+
 [Logical Diagram](https://lucid.app/lucidchart/2b6bd633-47c2-4612-b8ab-47e732e33e70/edit?viewport_loc=-33%2C49%2C1609%2C851%2C0_0&invitationId=inv_f144503c-5ca9-4350-b4fc-1e5c6d3a76e2)
 
-#### Videos watched
+## Videos watched
 * [Watched Week 0 - Live Streamed Video](https://www.youtube.com/watch?v=SG8blanhAOg&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=12)
 
 * [Watched Chirag's Week 0 - Spend Considerations](https://www.youtube.com/watch?v=OVw3RrlP-sI&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=13)
