@@ -6,8 +6,10 @@
 
 ### Create Logical Diagram
 
+![Conceptual Diagram](https://github.com/rembaumann/aws-bootcamp-cruddur-2023/blob/a591fdf095592dc5ecb69f839077d00b03c3640f/journal/conceptual_diagram.png)
 [Conceptual Diagram](https://lucid.app/lucidchart/aaf16c52-b569-423a-a992-c134322dd0c2/edit?viewport_loc=-810%2C-303%2C3621%2C1914%2C0_0&invitationId=inv_eb1e4b86-95b1-4195-9ced-d10bf0df656a)
 
+![Conceptual Diagram](https://github.com/rembaumann/aws-bootcamp-cruddur-2023/blob/a591fdf095592dc5ecb69f839077d00b03c3640f/journal/logical_diagram.png)
 [Logical Diagram](https://lucid.app/lucidchart/2b6bd633-47c2-4612-b8ab-47e732e33e70/edit?viewport_loc=-33%2C49%2C1609%2C851%2C0_0&invitationId=inv_f144503c-5ca9-4350-b4fc-1e5c6d3a76e2)
 
 ## Videos watched
